@@ -1,4 +1,4 @@
-# Ethereum Price Prediction using LSTM
+# Ethereum Return Prediction using LSTM
 Capstone project for the course "Deep Learning" as part of the master "Data Science and Society". Paper title "An LSTM Approach to Predicting Ethereum’s Price Trend Based on Blockchain Characteristics".
 
 I obtained a course grade of 10/10 as a result of this paper. Mind you, this does not imply that the result/code is meaningful in any way, as the grade was solely based on the final paper. 
